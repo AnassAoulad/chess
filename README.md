@@ -1,3 +1,8 @@
+# Projet fait en solo
+Anass Aoulad
+
+J'ai pas eu le temps de créer de test mais de base je voulais créer un test avec Jest et tester le déplacement d'un pion
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
